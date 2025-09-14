@@ -1,0 +1,7 @@
+
+Sale ID: 42
+Product: Refrigerator
+Quantity: 1
+Price per Unit: ₦200,000.00
+Total: ₦200,000.00
+Date: 2025-08-16 20:14:21

@@ -1,0 +1,13 @@
+MY BUSINESS NAME
+Address / Phone (optional)
+----------------------------------------
+Sale ID: None
+Date: None
+----------------------------------------
+Product              Qty      Price      Total
+----------------------------------------
+Phone                  1 ₦300,000.00 ₦300,000.00
+----------------------------------------
+GRAND TOTAL: ₦300,000.00
+
+Thank you for your purchase!

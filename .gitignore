@@ -1,0 +1,35 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Backup / temp
+*.bak
+*.swp
+*.tmp
+
+# Config / secrets (optional - if you have API keys)
+config/*.json
+
+# Secrets / configs
+config/admin.json

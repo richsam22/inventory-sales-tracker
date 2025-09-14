@@ -1,0 +1,13 @@
+MY BUSINESS NAME
+Address / Phone (optional)
+----------------------------------------
+Sale ID: 53
+Date: 2025-08-17 13:44:29
+----------------------------------------
+Product: Book
+Quantity: 2
+Unit Price: ₦5,000.00
+----------------------------------------
+TOTAL: ₦10,000.00
+
+Thank you for your purchase!
