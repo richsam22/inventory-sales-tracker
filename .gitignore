@@ -20,6 +20,10 @@ dist/
 Thumbs.db
 *.db
 *.bak
+*.sqlite
+*.pdf
+*.zip
+.exe
 
 # IDE files
 .vscode/
