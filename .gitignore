@@ -27,6 +27,7 @@ Thumbs.db
 *.bak
 *.swp
 *.tmp
+backups/
 
 # Config / secrets (optional - if you have API keys)
 config/*.json
